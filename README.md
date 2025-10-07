@@ -1,4 +1,4 @@
-# 💻 HTML+CSS Projects Showcase from freeCodeCamp
+# HTML+CSS Projects Showcase from freeCodeCamp
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css&left_text=repo%20views)
 
-## ℹ️ Personal Project Gallery Built with HTML and CSS
+## Personal Project Gallery Built with HTML and CSS
 
 | _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 | ------------------------------------------------ | --------------------------------------------------- |
@@ -27,15 +27,15 @@ A simple, responsive showcase of my early frontend projects using HTML5 and CSS3
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This website is a personal portfolio hub that displays multiple beginner-level HTML5 and CSS3 projects. Each project is represented by a preview image and hover-reveal title. The layout is responsive, uses semantic HTML, and follows mobile-first design principles.
 
-I built this during my learning path following the [freeCodeCamp.org](https://www.freecodecamp.org/) **Responsive Web Design Certification** course and extended it with my own custom styling, accessibility features, and layout system.
+I built this during my learning path following the **[freeCodeCamp.org](https://www.freecodecamp.org/)** **Responsive Web Design Certification** course and extended it with my own custom styling, accessibility features, and layout system.
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive grid layout for all screen sizes
 - Semantic HTML structure with proper use of headings, `section`, and `footer`
@@ -46,9 +46,9 @@ I built this during my learning path following the [freeCodeCamp.org](https://ww
 
 ---
 
-## 📚 Included Projects
+## Included Projects
 
-This collection contains **19** individual HTML-CSS mini projects built while completing [freeCodeCamp.org's CSS course](https://www.freecodecamp.org/learn/full-stack-developer/):
+This collection contains **19** individual HTML-CSS mini projects built while completing **[freeCodeCamp.org's CSS course](https://www.freecodecamp.org/learn/full-stack-developer/)**:
 
 1. [**Book Inventory App**](https://github.com/CodingWithJiro/freecodecamp-css-book-inventory-app) – A semantic layout simulating an inventory page for books.
 2. [**Confidential Email Page**](https://github.com/CodingWithJiro/freecodecamp-css-confidential-email-page) – A secure-themed email layout using visual emphasis and spacing.
@@ -72,7 +72,7 @@ This collection contains **19** individual HTML-CSS mini projects built while co
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure and plan a scalable CSS grid layout
 - Managing and organizing projects in a visual portfolio format
@@ -82,7 +82,7 @@ This collection contains **19** individual HTML-CSS mini projects built while co
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -92,23 +92,23 @@ This collection contains **19** individual HTML-CSS mini projects built while co
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://css-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://css-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
